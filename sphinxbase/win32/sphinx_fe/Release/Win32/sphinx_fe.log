@@ -1,0 +1,4 @@
+﻿  sphinx_fe.c
+e:\speech\working\sphinx\sphinxbase\src\sphinx_fe\sphinx_fe.c(184): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\speech\working\sphinx\sphinxbase\src\sphinx_fe\sphinx_fe.c(394): warning C4018: '<': signed/unsigned mismatch
+  sphinx_fe.vcxproj -> E:\Speech\Working\sphinx\sphinxbase\\bin\Release\Win32\sphinx_fe.exe

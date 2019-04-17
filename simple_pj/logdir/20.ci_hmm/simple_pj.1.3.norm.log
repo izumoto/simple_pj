@@ -1,0 +1,34 @@
+Current configuration:
+[NAME]		[DEFLT]	[VALUE]
+-accumdir		E:\Speech\Working\sphinx\simple_pj\bwaccumdir\simple_pj_buff_1,
+-constE		3.0	3.000000e+00
+-dcountfn		
+-example	no	no
+-fullvar	no	no
+-help		no	no
+-inmeanfn		
+-inmixwfn		
+-invarfn		
+-meanfn			E:/Speech/Working/sphinx/simple_pj/model_parameters/simple_pj.ci_cont/means
+-mixwfn			E:/Speech/Working/sphinx/simple_pj/model_parameters/simple_pj.ci_cont/mixture_weights
+-mmie		no	no
+-oaccumdir		
+-regmatfn		
+-tiedvar	no	no
+-tmatfn			E:/Speech/Working/sphinx/simple_pj/model_parameters/simple_pj.ci_cont/transition_matrices
+-varfn			E:/Speech/Working/sphinx/simple_pj/model_parameters/simple_pj.ci_cont/variances
+
+INFO: main.c(207): Reading and accumulating counts from E:\Speech\Working\sphinx\simple_pj\bwaccumdir\simple_pj_buff_1
+INFO: s3mixw_io.c(117): Read E:\Speech\Working\sphinx\simple_pj\bwaccumdir\simple_pj_buff_1/mixw_counts [69x1x1 array]
+INFO: s3tmat_io.c(118): Read E:\Speech\Working\sphinx\simple_pj\bwaccumdir\simple_pj_buff_1/tmat_counts [23x3x4 array]
+INFO: s3gau_io.c(386): Read E:\Speech\Working\sphinx\simple_pj\bwaccumdir\simple_pj_buff_1/gauden_counts with means with vars (2pass) [69x1x1 vector arrays]
+INFO: main.c(321): -2passvar yes
+INFO: main.c(391): Normalizing mean for n_mgau= 69, n_stream= 1, n_density= 1
+INFO: main.c(414): Normalizing var
+INFO: s3mixw_io.c(233): Wrote E:/Speech/Working/sphinx/simple_pj/model_parameters/simple_pj.ci_cont/mixture_weights [69x1x1 array]
+INFO: s3tmat_io.c(176): Wrote E:/Speech/Working/sphinx/simple_pj/model_parameters/simple_pj.ci_cont/transition_matrices [23x3x4 array]
+INFO: s3gau_io.c(228): Wrote E:/Speech/Working/sphinx/simple_pj/model_parameters/simple_pj.ci_cont/means [69x1x1 array]
+INFO: s3gau_io.c(228): Wrote E:/Speech/Working/sphinx/simple_pj/model_parameters/simple_pj.ci_cont/variances [69x1x1 array]
+Sat Apr 13 00:05:42 2019
+Current Overall Likelihood Per Frame = -152.038578680203
+Convergence ratio = 4.98877608572997

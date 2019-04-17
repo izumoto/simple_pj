@@ -1,0 +1,9 @@
+﻿  accum.c
+  init_gau.c
+e:\speech\working\sphinx\sphinxtrain\src\programs\init_gau\init_gau.c(227): warning C4013: 'str2words' undefined; assuming extern returning int
+  main.c
+e:\speech\working\sphinx\sphinxtrain\src\programs\init_gau\main.c(130): warning C4244: '=': conversion from 'double' to 'mfcc_t', possible loss of data
+e:\speech\working\sphinx\sphinxtrain\src\programs\init_gau\main.c(135): warning C4244: '=': conversion from 'double' to 'mfcc_t', possible loss of data
+  parse_cmd_ln.c
+  Generating Code...
+  init_gau.vcxproj -> E:\Speech\Working\sphinx\sphinxtrain\win32\programs\init_gau\.\..\..\..\bin\Release\Win32\init_gau.exe

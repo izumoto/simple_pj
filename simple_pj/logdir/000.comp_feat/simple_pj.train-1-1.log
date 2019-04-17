@@ -1,0 +1,180 @@
+Current configuration:
+[NAME]			[DEFLT]		[VALUE]
+-alpha			0.97		9.700000e-01
+-argfile				
+-blocksize		2048		2048
+-build_outdirs		yes		yes
+-c					E:/Speech/Working/sphinx/simple_pj/etc/simple_pj_train.fileids
+-cep2spec		no		no
+-di					E:/Speech/Working/sphinx/simple_pj/wav
+-dither			no		no
+-do					E:/Speech/Working/sphinx/simple_pj/feat
+-doublebw		no		no
+-ei					wav
+-eo					mfc
+-example		no		no
+-frate			100		100
+-help			no		no
+-i					
+-input_endian		little		little
+-lifter			0		22
+-logspec		no		no
+-lowerf			133.33334	1.300000e+02
+-mach_endian		little		little
+-mswav			no		yes
+-ncep			13		13
+-nchans			1		1
+-nfft			512		512
+-nfilt			40		25
+-nist			no		no
+-npart			0		1
+-nskip			0		0
+-o					
+-ofmt			sphinx		sphinx
+-part			0		1
+-raw			no		no
+-remove_dc		no		no
+-remove_noise		yes		yes
+-remove_silence		yes		yes
+-round_filters		yes		yes
+-runlen			-1		-1
+-samprate		16000		1.600000e+04
+-seed			-1		-1
+-smoothspec		no		no
+-spec2cep		no		no
+-sph2pipe		no		no
+-transform		legacy		dct
+-unit_area		yes		yes
+-upperf			6855.4976	6.800000e+03
+-vad_postspeech		50		50
+-vad_prespeech		20		20
+-vad_startspeech	10		10
+-vad_threshold		2.0		2.000000e+00
+-verbose		no		no
+-warp_params				
+-warp_type		inverse_linear	inverse_linear
+-whichchan		0		0
+-wlen			0.025625	2.562500e-02
+
+INFO: sphinx_fe.c(967): Processing all remaining utterances at position 0
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-1.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-1.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-2.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-2.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-3.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-3.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-4.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-4.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-5.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-5.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-6.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-6.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-7.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-7.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-8.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-8.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-9.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-9.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-10.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-10.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-11.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-11.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-12.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-12.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-13.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-13.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-14.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-14.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-15.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-15.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-16.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-16.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-17.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-17.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-18.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-18.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-19.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-19.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-20.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-20.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-21.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-21.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-22.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-22.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-23.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-23.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-24.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-24.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-25.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-25.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-26.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-26.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-27.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-27.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-28.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-28.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-29.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-29.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-30.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-30.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-31.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-31.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-32.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-32.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-33.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-33.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-34.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-34.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-35.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-35.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-36.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-36.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-37.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-37.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-38.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-38.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-39.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-39.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-40.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-40.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-41.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-41.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-42.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-42.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-43.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-43.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-44.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-44.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-45.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-45.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-46.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-46.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-47.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-47.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-48.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-48.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-49.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-49.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-50.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-50.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-51.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-51.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-52.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-52.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-53.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-53.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-54.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-54.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-55.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-55.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-56.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-56.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-57.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-57.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-58.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-58.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-59.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-59.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-60.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-60.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-61.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-61.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-62.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-62.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-63.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-63.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-64.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-64.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-65.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-65.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-66.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-66.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-67.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-67.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-68.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-68.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-69.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-69.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-70.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-70.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-71.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-71.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-72.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-72.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-73.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-73.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-74.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-74.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-75.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-75.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-76.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-76.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-77.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-77.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-78.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-78.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-79.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-79.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-80.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-80.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-81.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-81.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-82.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-82.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-83.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-83.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-84.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-84.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-85.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-85.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-86.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-86.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-87.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-87.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-88.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-88.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-89.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-89.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-90.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-90.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-91.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-91.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-92.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-92.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-93.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-93.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-94.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-94.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-95.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-95.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-96.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-96.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-97.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-97.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-98.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-98.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-99.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-99.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-100.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-100.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-101.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-101.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-102.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-102.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-103.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-103.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-104.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-104.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-105.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-105.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-106.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-106.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-107.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-107.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-108.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-108.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-109.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-109.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-110.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-110.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-111.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-111.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-112.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-112.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-113.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-113.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-114.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-114.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-115.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-115.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-116.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-116.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-117.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-117.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-118.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-118.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-119.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-119.mfc
+INFO: sphinx_fe.c(787): Converting E:/Speech/Working/sphinx/simple_pj/wav/Phat/file-120.wav to E:/Speech/Working/sphinx/simple_pj/feat/Phat/file-120.mfc
+Sat Apr 13 00:05:20 2019

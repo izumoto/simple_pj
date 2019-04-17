@@ -1,0 +1,2 @@
+pocketsphinx_continuous.exe -inmic yes -hmm "E:\Speech\Working\sphinx\run\simple_pj" -lm "E:\Speech\Working\sphinx\run\simple_pj.lm" -dict "E:\Speech\Working\sphinx\run\simple_pj.dic" -logfn nul
+pocketsphinx_continuous.exe -infile "E:\Speech\Working\sphinx\run\test1.wav" -hmm "E:\Speech\Working\sphinx\run\simple_pj" -lm "E:\Speech\Working\sphinx\run\simple_pj.lm" -dict "E:\Speech\Working\sphinx\run\simple_pj.dic" -logfn nul
